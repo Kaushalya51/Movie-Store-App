@@ -4,7 +4,7 @@ Movie-Store-App
 Develop Movie store app using React Native and MongoDB
 
 <p align="center">
-<img src="https://github.com/Kaushalya51/Movie-Store-App/assets/126133317/ed6ea8c6-aa88-4cb1-9f7b-410b73cdd29c" width="30%" ></img> </br></br>
+<img src="https://github.com/Kaushalya51/movie-store-app-project/assets/output/image1" width="30%" ></img> </br></br>
 <img src="https://github.com/Kaushalya51/Movie-Store-App/assets/126133317/6cff7366-2fca-4c8d-b384-561159552b4d" width="30%" ></img> </br></br>
 <img src="https://github.com/Kaushalya51/Movie-Store-App/assets/126133317/0e80feb2-dbc7-4026-845a-f16806fc7398" width="30%"></img> </br></br>
 <img src="https://github.com/Kaushalya51/Movie-Store-App/assets/126133317/4e6f8622-f5bf-4083-84b6-5ef414ec8671" width="30%"></img> </br></br>
